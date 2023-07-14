@@ -44,6 +44,8 @@ __Admin page__
 ![image](https://github.com/klyneajido/Online-Market/assets/139476987/f83f6432-fe57-4e1b-9a4a-0cd86c0c8bff)
 ![image](https://github.com/klyneajido/Online-Market/assets/139476987/047912e7-cece-4393-928a-2a75973bcbba)
 ![image](https://github.com/klyneajido/Online-Market/assets/139476987/3d1f6f48-8783-411b-86b1-44a627cc9dbf)
+![image](https://github.com/klyneajido/Online-Market/assets/139476987/856b85b1-ef8d-4408-8850-7a18efa3c4de)
+![image](https://github.com/klyneajido/Online-Market/assets/139476987/e26da71d-f089-446e-93c5-05c711efd65d)
 
 __Seller Page__
 ![image](https://github.com/klyneajido/Online-Market/assets/139476987/6f589834-0024-4ab5-9dca-6c3c477e3e76)
