@@ -1,4 +1,4 @@
-![image](https://github.com/klyneajido/Online-Market/assets/139476987/080f4959-a216-4c0e-b340-aea62b0fdde3)# Online Marketplace App
+# Online Marketplace App
 
 The Online Marketplace App is a versatile software solution built using C# and utilizes a MySQL database for data storage. It provides a user-friendly platform for buyers, sellers, and administrators to engage in online transactions.
 
@@ -40,16 +40,16 @@ Please note that these are general guidelines, and you may need to adapt them to
 ![image](https://github.com/klyneajido/Online-Market/assets/139476987/992e132e-890e-4fb9-8aea-b1ac7b658059)
 ![image](https://github.com/klyneajido/Online-Market/assets/139476987/43fed6bb-ef68-43af-a74c-7acce018ff82)
 
-Admin page
+__Admin page__
 ![image](https://github.com/klyneajido/Online-Market/assets/139476987/f83f6432-fe57-4e1b-9a4a-0cd86c0c8bff)
 ![image](https://github.com/klyneajido/Online-Market/assets/139476987/047912e7-cece-4393-928a-2a75973bcbba)
 ![image](https://github.com/klyneajido/Online-Market/assets/139476987/3d1f6f48-8783-411b-86b1-44a627cc9dbf)
 
-Seller Page
+__Seller Page__
 ![image](https://github.com/klyneajido/Online-Market/assets/139476987/6f589834-0024-4ab5-9dca-6c3c477e3e76)
 ![image](https://github.com/klyneajido/Online-Market/assets/139476987/8a5c6bbb-d820-4233-a84b-a2f61a44f928)
 
-Buyer Page
+__Buyer Page__
 ![image](https://github.com/klyneajido/Online-Market/assets/139476987/c43127b9-310a-4f18-947f-baa2a5620f68)
 ![image](https://github.com/klyneajido/Online-Market/assets/139476987/6d9a5d8f-e867-435e-8550-0464eaa3d5dc)
 
@@ -58,4 +58,4 @@ Buyer Page
 For any inquiries or support, please email us at [ajido.andriqklyne@gmail.com].|
 
 
-P.S. This project holds a special significance for me as it was my first major endeavor in C# during my time as a second-year BSCS student. I completed it as part of my final term in the first semester, dedicating three weeks of hard work to its completion. While there are some known issues, rest assured that I am committed to resolving them promptly.
+P.S. This project holds a special significance for me as it was my first major endeavor in C# during my time as a second-year BSCS student. I completed it as part of my final term in the first semester, dedicating 2-3 weeks of hard work to its completion. While there are some known issues, rest assured that I am committed to resolving them promptly.
