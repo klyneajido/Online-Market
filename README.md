@@ -35,14 +35,6 @@ As the installation process depends on your specific environment and setup, plea
 
 Please note that these are general guidelines, and you may need to adapt them to your specific setup. Feel free to refer to the documentation or seek additional support if needed.
 
-## Contributing
-
-Contributions are welcome! Please follow the guidelines in the [CONTRIBUTING.md](CONTRIBUTING.md) file.
-
-## License
-
-This project is licensed under the [MIT License](LICENSE).
-
 ## Contact
 
 For any inquiries or support, please email us at [ajido.andriqklyne@gmail.com].
