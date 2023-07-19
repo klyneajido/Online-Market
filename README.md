@@ -28,10 +28,12 @@ As the installation process depends on your specific environment and setup, plea
 1. Clone the repository: `git clone https://github.com/klyneajido/Online-Market.git`
 2. Upload the files to your web server or hosting environment.
 3. Set up the MySQL database:
+   - Download the palengke.sql from the main branch
    - Create a new MySQL database( name it palengke).
+   - Import the palengke.sql 
    - Update the database connection details in the application code (e.g., `appsettings.json` or connection strings in the code files).
-4. Configure the necessary dependencies and environment settings for your server.
-5. Start the application and ensure the necessary dependencies are installed.
+5. Configure the necessary dependencies and environment settings for your server.
+6. Start the application and ensure the necessary dependencies are installed.
 
 Please note that these are general guidelines, and you may need to adapt them to your specific setup. Feel free to refer to the documentation or seek additional support if needed.
 
